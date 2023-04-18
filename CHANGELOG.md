@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.4.0](https://github.com/dennissiq/poc-standard-version/compare/v0.3.0...v0.4.0) (2023-04-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* teste
+
+* teste ([f15bc86](https://github.com/dennissiq/poc-standard-version/commit/f15bc863fe79614d63733264ad065cfe3b0ad297))
+
 ## [0.3.0](https://github.com/dennissiq/poc-standard-version/compare/v0.2.0...v0.3.0) (2023-04-18)
 
 
