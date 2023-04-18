@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.0](https://github.com/dennissiq/poc-standard-version/compare/v0.0.4...v0.1.0) (2023-04-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* teste
+
+### Features
+
+* main text ([e4d90e4](https://github.com/dennissiq/poc-standard-version/commit/e4d90e49772c525d109c11072c03eb745a6af650))
+* teste ([0bb04f7](https://github.com/dennissiq/poc-standard-version/commit/0bb04f7370004cb576fea86d3d2167eef39a43d8))
+
 ### [0.0.4](https://github.com/dennissiq/poc-standard-version/compare/v0.0.3...v0.0.4) (2023-04-18)
 
 ### [0.0.3](https://github.com/dennissiq/poc-standard-version/compare/v0.0.2...v0.0.3) (2023-04-18)
